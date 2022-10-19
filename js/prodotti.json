@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "nome": "Piantina di Murda",
+        "prezzo": 1000.00,
+        "quantita": 0,
+        "description": "Cras ultricies ligula sed magna dictum porta. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.",
+        "image": "http://localhost/tagcommerce/wp-content/uploads/2022/10/linh-le-Ebwp2-6BG8E-unsplash-scaled.jpg",
+        "options": [
+            {
+                "nome": "colore",
+                "variante": [
+                    "blue",
+                    "giallo",
+                    "bianco"
+                ]
+            },
+            {
+                "nome": "taglia",
+                "variante": [
+                    "s",
+                    "m",
+                    "l"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Pianta Bella",
+        "prezzo": 1000.00,
+        "quantita": 0,
+        "description": "Cras ultricies ligula sed magna dictum porta. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.",
+        "image": "http://localhost/tagcommerce/wp-content/uploads/2022/10/toa-heftiba-W1yjvf5idqA-unsplash-scaled.jpg",
+        "options": [
+            {
+                "nome": "colore",
+                "variante": [
+                    "blue",
+                    "giallo",
+                    "bianco"
+                ]
+            },
+            {
+                "nome": "taglia",
+                "variante": [
+                    "s",
+                    "m",
+                    "l"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nome": "Pianta Apprezzabile",
+        "prezzo": 1000.00,
+        "quantita": 0,
+        "description": "Cras ultricies ligula sed magna dictum porta. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.",
+        "image": "http://localhost/tagcommerce/wp-content/uploads/2022/10/annie-spratt-hX_hf2lPpUU-unsplash-scaled.jpg",
+        "options": [
+            {
+                "nome": "colore",
+                "variante": [
+                    "blue",
+                    "giallo",
+                    "bianco"
+                ]
+            },
+            {
+                "nome": "taglia",
+                "variante": [
+                    "s",
+                    "m",
+                    "l"
+                ]
+            }
+        ]
+    }
+]
